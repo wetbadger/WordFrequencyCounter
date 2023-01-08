@@ -3,4 +3,4 @@ META-INF
 out
 src/META-INF
 WordFrequency.iml
-*.class
+src/*.class
